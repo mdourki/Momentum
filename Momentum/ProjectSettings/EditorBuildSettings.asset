@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BeforeMenu/BeforeMenu.unity
+    guid: 2b022b1ab8635a948864bc8e3e8c3006
+  - enabled: 1
+    path: Assets/Menu/menu.unity
+    guid: 8ded1b960505ed54ca306373caf1e9b7
+  - enabled: 1
+    path: Assets/Levels/Cube rouge/level1_SR.unity
+    guid: 86fe150821fe48842ac04689efc6936a
+  - enabled: 1
+    path: Assets/Levels/Cube rouge/level1_RR.unity
+    guid: 031ee5b2064a65c41937d0b425c6f14b
+  - enabled: 1
+    path: Assets/Levels/Cube vert/level1_SV.unity
+    guid: eb9571d2aadbecd4bb31bf752c72a2cd
+  - enabled: 1
+    path: Assets/Levels/Cube vert/level1_RV.unity
+    guid: 24ceb14ae78ec6646afffa20462016c4
+  - enabled: 1
+    path: Assets/Levels/Cube Rose/level1_SP.unity
+    guid: 7429f86ccf75190468d82d4e544f31f9
+  - enabled: 1
+    path: Assets/Levels/Cube Rose/level1_RP.unity
+    guid: 7878fc35e70ae7e41942c25cae9f2795
+  - enabled: 1
+    path: Assets/Levels/Cube Jaune/level1_SY.unity
+    guid: 6950bb4111fe94e4ab6a2de429303533
+  - enabled: 1
+    path: Assets/Levels/Cube Jaune/level1_RY.unity
+    guid: 06c61d8a49edce44f8db86237ca550b8
+  - enabled: 1
+    path: Assets/Levels/Cube rouge/level2_SR.unity
+    guid: 6dcfd9d86040f8941ac26bc570db5088
+  - enabled: 1
+    path: Assets/Levels/Cube rouge/level2_RR.unity
+    guid: e092380056c3aae4981b6d9946bff022
+  - enabled: 1
+    path: Assets/Levels/Cube vert/level2_SV.unity
+    guid: 1af38b20f48e3d64da96309d61a51896
+  - enabled: 1
+    path: Assets/Levels/Cube vert/level2_RV.unity
+    guid: 39968a8a9405b2f4f88e4f3f0cea225a
+  - enabled: 1
+    path: Assets/Levels/Cube Rose/level2_SP.unity
+    guid: d75ff6ca3d30a6d4ca3c870041432ec7
+  - enabled: 1
+    path: Assets/Levels/Cube Rose/level2_RP.unity
+    guid: 9318e95a10334724db5348c4cc54b78e
+  - enabled: 1
+    path: Assets/Levels/Cube Jaune/level2_SY.unity
+    guid: 73cc3dc24dfff3347942f1d7bc91f24b
+  - enabled: 1
+    path: Assets/Levels/Cube Jaune/level2_RY.unity
+    guid: 55a96958e4756ab4593099a62a35859d
+  m_configObjects: {}
